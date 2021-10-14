@@ -1,3 +1,6 @@
+# Version del curso 
+Version actual: V1.2.2
+
 # Cabeceras
 # Cabecera H1
 ## Cabecera H2
@@ -118,4 +121,4 @@ Esto es un tercer parrafo.
 - Lista
     - otra lista
     - mas lista
-- primera lista
+- primera lista 
